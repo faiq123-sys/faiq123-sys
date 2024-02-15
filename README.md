@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Faiq Raza</h1>
-<h3 align="center">Software Engineer || Backend Engineer!</h3>
+<h3 align="center">Software Engineer || Frontend Engineer!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on *Microservice, Backend*
+- 🔭 I’m currently working on *UI designing, Frontend*
 
-- 🌱 I’m currently learning *DevOps & Full stack*
+- 🌱 I’m currently learning *s & Full stack*
 
-- 💬 Ask me about *Backend, Deployement, AiTools*
+- 💬 Ask me about *Frontend, Deployement, AiTools*
 
 - 📫 How to reach me *faiqraza612@gmail.com*
 
